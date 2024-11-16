@@ -47,8 +47,8 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name:212222230073
+### Register Number: LATHISH KANNA.M
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
